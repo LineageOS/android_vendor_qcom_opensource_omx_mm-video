@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAS3//+/Y\u003d",
+        "filename": "vidc/vdec/src/omx_vdec.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 8625,
+      "author": {
+        "id": 3136
+      },
+      "writtenOn": "2012-05-11T11:24:16Z",
+      "side": 0,
+      "message": "Missing new line at the end of the file.",
+      "revId": "10be5b5d69588062aa8501f479c9cf9c2a3fc2b3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
