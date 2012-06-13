@@ -1,0 +1,9 @@
+Change-Id: Ie091e98fad643cc3d3e75d05a28d56367e0c5813
+Code-Review+2: Steve Kondik <shade@chemlab.org>
+Verified+1: Steve Kondik <shade@chemlab.org>
+Code-Review+1: Ethan Chen <intervigil@gmail.com>
+Submitted-by: Steve Kondik <shade@chemlab.org>
+Submitted-at: Wed, 13 Jun 2012 22:37:30 +0400
+Reviewed-on: http://review.cyanogenmod.com/17616
+Project: CyanogenMod/android_vendor_qcom_opensource_omx_mm-video
+Branch: refs/heads/ics
